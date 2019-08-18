@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url("http://blog.hostbaby.com/backgrounds/bg_lightwoodfloor.jpg");
+    /* background-color: #DCDCDC; */
+    font-style: italic;
+    overflow-x: hidden;
+}
+
+.card{
+    background-color: #B0C4DE;
+    border: 0;
+}

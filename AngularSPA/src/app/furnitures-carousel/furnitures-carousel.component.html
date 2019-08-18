@@ -1,0 +1,7 @@
+<ngb-carousel >
+    <ng-template ngbSlide *ngFor ="let item of myData" >
+      <div class="picsum-img-wrapper">
+        <img [src]="item.image" alt="Random first slide" style="width:100%; max-height:800px;">
+      </div>
+    </ng-template>
+</ngb-carousel>

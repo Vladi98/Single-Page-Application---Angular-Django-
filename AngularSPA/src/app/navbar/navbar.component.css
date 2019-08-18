@@ -1,0 +1,12 @@
+.active-link{
+    background-color: #D3D3D3;
+    border-radius: 5px;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+    margin-right:10px;
+    border: 0;
+    border-radius: 20px;
+}

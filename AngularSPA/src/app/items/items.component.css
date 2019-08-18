@@ -1,0 +1,15 @@
+.md-form{
+    position: relative;
+    left:80%;
+    
+}
+input{
+    display: block;
+    width: 18%;
+    height: 40px;
+    border:1px solid blue;
+    border-radius: 3px;
+}
+label{
+    font-size: 20px;
+}
