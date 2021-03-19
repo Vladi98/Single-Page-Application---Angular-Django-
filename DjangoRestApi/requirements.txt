@@ -6,7 +6,7 @@ Django==2.1.10
 django-pyodbc-azure==2.1.0.0
 django-rest-framework==0.1.0
 django-rest-swagger==2.2.0
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 idna==2.8
 itypes==1.1.0
